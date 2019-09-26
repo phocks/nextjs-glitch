@@ -1,2 +1,10 @@
-# nextjs-glitch
-Run Next.js on Glitch.com
+Next.js
+=================
+
+You can run a Next.js instance on Glitch
+
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
